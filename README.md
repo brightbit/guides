@@ -4,22 +4,30 @@ Brightbit Style Guides
 Ruby
 ----
 
-Do what bbatsov [says](https://github.com/bbatsov/ruby-style-guide)
+Refer to [https://github.com/bbatsov/ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
 
 Rails
 -----
 
-[ditto](https://github.com/bbatsov/rails-style-guide)
+Refer to [https://github.com/bbatsov/rails-style-guide](https://github.com/bbatsov/rails-style-guide)
 
 Javascript
 ----------
 
+#TODO
+
 CSS
 ---
+
+#TODO
 
 HTML Templates
 --------------
 
+For Ruby & Rails projects, follow the Rails [styleguide](https://github.com/bbatsov/rails-style-guide)
+#TODO
+
 PHP
 ---
 
+#TODO
