@@ -7,7 +7,7 @@ Ruby
 ### Installation
 
 ```bash
-echo "Updating brew ..."; 
+echo "Updating brew ...";
 brew update
 echo "Removing old versions of Ruby ..."
 brew rm -f ruby
@@ -47,21 +47,28 @@ brew switch ruby 2.0.0-p0
 
 **Note:** For gem bins to work, you'll need to restart your shell
 
-### Styleguide
-
-Refer to [https://github.com/bbatsov/ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
-
 Rails
 -----
 
 ### Styleguide
 
-Refer to [https://github.com/bbatsov/rails-style-guide](https://github.com/bbatsov/rails-style-guide)
+Refer to [bbatsov](https://github.com/bbatsov/)’s [rails-style-guide](https://github.com/bbatsov/rails-style-guide)
+
+CoffeeScript
+------------
+
+### Styleguide
+
+Follow [polarmobile](https://github.com/polarmobile/)’s [coffeescript-style-guide](https://github.com/polarmobile/coffeescript-style-guide)
 
 Javascript
 ----------
 
-Refer to [https://github.com/rwldrn/idiomatic.js/](https://github.com/rwldrn/idiomatic.js/)
+### Styleguide
+
+Rule 1: Write all new Javascript in CoffeeScript.
+
+Rule 2: If you must write or maintain Javascript, follow [idiomatic.js](https://github.com/rwldrn/idiomatic.js/)
 
 TODO: Adapt this into a more brief set of guidelines; or find a more succinct version to include by reference.
 
