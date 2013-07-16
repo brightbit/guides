@@ -61,7 +61,9 @@ Refer to [https://github.com/bbatsov/rails-style-guide](https://github.com/bbats
 Javascript
 ----------
 
-#TODO
+Refer to [https://github.com/rwldrn/idiomatic.js/](https://github.com/rwldrn/idiomatic.js/)
+
+TODO: Adapt this into a more brief set of guidelines; or find a more succinct version to include by reference.
 
 CSS
 ---
